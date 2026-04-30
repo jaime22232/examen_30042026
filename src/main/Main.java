@@ -6,7 +6,7 @@ import controlador.ControladorTarea;
 public class Main {
     public static void main(String[] args)
     {
-        System.out.println("Iniciando sistema... ensamblando MVC.");
+        System.out.println("Iniciando sistema...");
 
         VistaPrincipal vista = new VistaPrincipal();
 
